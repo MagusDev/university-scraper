@@ -5,6 +5,7 @@
 
 ## Overview
 This repository contains a Python web scraper that extracts data from university websites. The scraper is designed to retrieve specific information andit is customizable for different uses.
+
 The article: [Web Scraper Medium Article](https://medium.com/@m.agame1379/a-generalized-web-scraper-application-to-efficiently-extract-data-from-static-websites-e986878c9833)
 
 ## Features
