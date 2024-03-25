@@ -3,8 +3,6 @@
 # Web Scraper Python Project
 ![image](https://github.com/MagusDev/university-scraper/assets/90957273/f54c4da9-347d-4580-81ef-7bdbdcd27998)
 
-!License
-
 ## Overview
 This repository contains a Python web scraper that extracts data from university websites. The scraper is designed to retrieve specific information andit is customizable for different uses.
 The article: [Web Scraper Medium Article](https://medium.com/@m.agame1379/a-generalized-web-scraper-application-to-efficiently-extract-data-from-static-websites-e986878c9833)
