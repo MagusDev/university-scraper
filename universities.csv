@@ -1,0 +1,5 @@
+University,Department,URL,Modal Tag,Modal Class,Name Tag,Name Class,Email Tag,Email Class
+University of Maryland,CS,https://www.cs.umd.edu/people/faculty,h4,media-heading,h1,page-header,a,
+UC Santa Barbara,CS,https://www.cs.ucsb.edu/people/faculty,span,field-content,h1,page-header,,
+University of Alberta,CS,https://apps.ualberta.ca/directory/search/department/360300,td,result-name,h1,mb-2,a,
+University of Florida,CS,https://www.cise.ufl.edu/people/faculty/,p,wp-show-posts-entry-title,div,col-md-9,a,
