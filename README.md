@@ -1,5 +1,7 @@
 # University Professor Web Scraper
 
+![image](https://github.com/MagusDev/university-scraper/assets/90957273/f54c4da9-347d-4580-81ef-7bdbdcd27998)
+
 A Python desktop application for scraping university websites to find professors and their contact information based on research keywords.
 
 ## Features
@@ -17,8 +19,8 @@ A Python desktop application for scraping university websites to find professors
 1. **Clone or download the project**
 
    ```bash
-   git clone <repository-url>
-   cd "Web scraper"
+   git clone https://github.com/MagusDev/university-scraper.git
+   cd "university-scraper"
    ```
 
 2. **Create a virtual environment (recommended)**
